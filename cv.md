@@ -1,7 +1,7 @@
 # Anna Lazarenko
 Python Backend Developer and beginner Frontend Developer
 ***
-## Contacts:
+### Contacts:
 **Phone:** +7 961 708 1181
 
 **E-mail:** aulazar@yandex.ru
@@ -11,7 +11,7 @@ Python Backend Developer and beginner Frontend Developer
 **Discord:** Anna Lazarenko (@ann74)
 
 ***
-## About me:
+### About me:
 I have a higher technical education, worked as a design engineer.
 
 For several years I worked as a tester of various Yandex products. I started learning python and got the profession of python backend developer. I have completed several educational and commercial projects in python.
@@ -20,7 +20,7 @@ Now I have started studying frontend development. I know HTML, CSS and JS basic.
 
 I like programming. I easily master new information and tools. I strive for development in the field of IT and constantly improve my level.
 ***
-## My Skills:
+### My Skills:
 - python
 - basic algorithms and data structures
 - frameworks Django, Fastapi, Aiohttp
@@ -31,12 +31,17 @@ I like programming. I easily master new information and tools. I strive for deve
 - Git, Github
 - VS Code, IntelliJ IDEA
 ***
-## Code example:
+### Code example:
+Task from codeworse
 ```javascript
-
+function multiply(a, b){
+  return a * b
+}
+let result = multiply(3, 5);
+alert( result );
 ```
 ***
-## Education:
+### Education:
 **University:** Tomsk Polytechnic University
 
 **Courses:**
@@ -44,6 +49,6 @@ I like programming. I easily master new information and tools. I strive for deve
 - Python-developer, Skypro, 2022
 - SQL, Stepik, 2022
 ***
-## Languages:
+### Languages:
 - English - Intermediate (B1)
 - Russian - Native
