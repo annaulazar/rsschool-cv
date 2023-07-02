@@ -19,6 +19,7 @@ For several years I worked as a tester of various Yandex products. I started lea
 Now I have started studying frontend development. I know HTML, CSS and JS basic.
 
 I like programming. I easily master new information and tools. I strive for development in the field of IT and constantly improve my level.
+
 ***
 ### My Skills:
 - python
@@ -30,6 +31,7 @@ I like programming. I easily master new information and tools. I strive for deve
 - HTML, CSS, JavaScript Basics
 - Git, Github
 - VS Code, IntelliJ IDEA
+
 ***
 ### Code example:
 Task from codeworse
@@ -40,6 +42,7 @@ function multiply(a, b){
 let result = multiply(3, 5);
 alert( result );
 ```
+
 ***
 ### Education:
 **University:** Tomsk Polytechnic University
@@ -48,6 +51,7 @@ alert( result );
 - Training on algorithms 3.0, Yandex, 2023
 - Python-developer, Skypro, 2022
 - SQL, Stepik, 2022
+
 ***
 ### Languages:
 - English - Intermediate (B1)
